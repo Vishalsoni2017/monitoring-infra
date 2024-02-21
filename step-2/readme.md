@@ -8,4 +8,4 @@ Install Node Exporter <br>
 7. sudo systemctl start node_exporter <br>
 8. sudo systemctl enable node_exporter
 9. htpp://ip:9100
-10. app ip of node exporter to prometheus server yaml file
+10. app-server ip of node exporter to prometheus server yaml file
